@@ -1,0 +1,40 @@
+.contenedor {
+    width: 60px;
+    height: 729px;
+    flex-direction:column; 
+}
+.rojo {
+    width: 60px;
+    height: 100px;
+    padding-bottom: 80px;
+}
+.naranja {
+    width: 60px;
+    height: 100px;
+    padding-bottom: 80px;
+}
+.amarillo {
+    width: 60px;
+    height: 100px;
+    padding-bottom: 80px;
+}
+.verde {
+    width: 60px;
+    height: 100px;
+    padding-bottom: 80px;
+}
+.azul {
+    width: 60px;
+    height: 100px;
+    padding-bottom: 80px;
+}
+.indigo {
+    width: 60px;
+    height: 100px;
+    padding-bottom: 80px;
+}
+.morado {
+    width: 60px;
+    height: 100px;
+    padding-bottom: 80px;
+}
